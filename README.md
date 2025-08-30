@@ -45,12 +45,12 @@ To transform Blinkit’s raw sales data into **actionable insights** for better 
 ---
 
 ## 📷 Dashboard Preview
-![Blinkit Dashboard Preview](assets/Blinkit_Dashboard_Preview.png)
+![Blinkit Dashboard Preview](Blinkit_Dashboard_Preview.png)
 
 ---
 
 ## 🎥 Demo Video
-👉 [Watch the Demo](demo/Blinkit_Demo.mp4)  
+👉 [Watch the Demo](Blinkit_Demo.mp4)  
 
 
 ---
