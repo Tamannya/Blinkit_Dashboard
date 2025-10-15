@@ -45,7 +45,7 @@ To transform Blinkit’s raw sales data into **actionable insights** for better 
 ---
 
 ## 📷 Dashboard Preview
-![Blinkit Dashboard Preview](Blinkit_Dashboard_Preview.png)
+![Blinkit Dashboard Preview](https://github.com/Tamannya/Blinkit_Dashboard/blob/main/images/Blinkit__Dashboard_Preview.png?raw=true)
 
 ---
 
